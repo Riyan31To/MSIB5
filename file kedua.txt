@@ -1,1 +1,5 @@
-   
+Rincian materi MSIB-5
+1. Desain Grafis
+2.UI/UX
+3.PHP
+4.HTML   
